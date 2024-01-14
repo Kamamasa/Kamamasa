@@ -26,8 +26,8 @@
 
 # STATS
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kamamasa" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kamamasa&theme=dark&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamamasa&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamamasa&layout=compact&theme=dark&count_private=true" />
   </a>
